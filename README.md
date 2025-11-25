@@ -36,7 +36,7 @@ O repositório está dividido em quatro pastas, cada uma contendo um desafio ref
 - Relatório mais limpo e intuitivo
 
 **Visual do relatório:**  
-![Relatório UX](./Desafio_Experiencia_Usuario_Relatorio_Financials/Relatorio_financial_UX.jpeg)
+![Relatório UX](./Desafio_Experiencia_Usuario_Relatorio_Financials/Relatorio_Financial_UX.jpeg)
 
 ---
 
@@ -56,8 +56,8 @@ O repositório está dividido em quatro pastas, cada uma contendo um desafio ref
 - Medidas criadas em DAX
  
 **Visuais do relatório:**  
-![Página Produtos](./Desafio_Data_Analytics_Relatorio_Financials/Pagina_Produtos.jpeg)  
-![Página Sales](./Desafio_Data_Analytics_Relatorio_Financials/Pagina_Sales.jpeg)
+![Página Produtos](./Desafio_Data_Analystics_Relatorio_Financials/Pagina_Produtos.jpeg)  
+![Página Sales](Desafio_Data_Analystics_Relatorio_Financials/Pagina_Sales.jpeg)
 
 ---
 
@@ -73,7 +73,7 @@ O repositório está dividido em quatro pastas, cada uma contendo um desafio ref
 - Página organizada, limpa e interativa
 
 **Visual do relatório:**  
-![Página Dinâmica](./Desafio_Relatorio_Dinamico_Parametros/Pagina_Dinâmico.jpeg)
+![Página Dinâmica](Desafio_Relatorio_dinamico_parametros/Pagina_Dinâmico.jpeg)
 
 ---
 
